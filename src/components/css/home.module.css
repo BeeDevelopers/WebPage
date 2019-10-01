@@ -1,0 +1,39 @@
+.cabecera{
+    margin: 0;
+    height: calc(100vh - 66.4px);
+    background-color: #1685D9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.cabecera img{
+    width: 30rem;
+}
+
+.cabecera_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecera_texto h1{
+    width: 40rem;
+    margin-bottom: 2rem;
+    font-size: 3.5rem;
+    font-weight: 400;
+    color: white
+}
+
+.cabecera span{
+    font-weight: 700;
+}
+
+.cabecera p{
+    color: white;
+    font-size: 2.2rem;
+    width: 35rem;
+
+}
