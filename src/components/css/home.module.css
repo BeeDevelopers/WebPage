@@ -27,7 +27,7 @@
     color: white
 }
 
-.cabecera span{
+span{
     font-weight: 700;
 }
 
@@ -35,5 +35,70 @@
     color: white;
     font-size: 2.2rem;
     width: 35rem;
+}
 
+
+.seccion{
+    padding: 10rem 0rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.seccion img{
+    width: 35rem;
+}
+
+.seccion_texto{
+    max-width: 30rem;
+}
+
+.seccion_texto h2{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.seccion_texto p{
+    font-size: 1.7rem;
+}
+
+.foto{
+    border-radius: 2rem;
+}
+
+.frase{
+    background-color: #1685D9;
+    display: flex;
+    justify-content: center;
+    padding: 5rem;
+}
+.frase h2{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 700;
+
+}
+
+.seccionFinal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 5rem;
+}
+
+.seccionFinal_imagenes{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.seccionFinal_imagenes img{
+    width: 25rem;
+}
+
+.especial{
+    margin-top: 10rem;
 }
