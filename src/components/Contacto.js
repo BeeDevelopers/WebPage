@@ -4,7 +4,6 @@ import Titulo from './Titulo';
 import Separador from './Separador';
 
 import seccion from './css/eventos.module.css';
-import Redes from './RedesSociales';
 import styles from './css/contacto.module.css';
 
 export default class Contacto extends Component {
@@ -28,15 +27,23 @@ export default class Contacto extends Component {
                 <Separador titulo="Información y Redes Sociales" />
 
                 <div className={styles.info}>
-                    <img src="" alt="mapa" />
+                    <img src="/img/map.svg" alt="mapa" />
                     <div className={styles.texto}>
-                        <p><span>Dirección:</span> Oficinas de CEMER. Camino a Palo Blanco #227 Salamanca, Guanajuato.</p>
-                        <p><span>E-mail:</span> beedevelopers.dicis@gmail.com</p>
-                        <Redes
-                            facebook="https://www.facebook.com/BeeDevelopersUG/"
-                            instagram="https://www.instagram.com/beedevelopers/?hl=es-la"
-                            twitter="https://www.twitter.com/BeeDevelopers"
-                        />
+                        <p><span>Dirección:</span> </p>
+                        <p>Oficinas de CEMER. Camino a Palo Blanco #227 Salamanca, Guanajuato.</p>
+                        <p><span>E-mail:</span></p><a href="mailto:beedevelopers.dicis@gmail.com">beedevelopers.dicis@gmail.com</a>
+                        <p><span>Redes Sociales:</span></p>
+                        <div className={styles.redes}>
+                            <a className={styles.facebook} href="https://www.facebook.com/BeeDevelopersUG/">
+                                <i class="fab fa-facebook"></i>
+                            </a>
+                            <a className={styles.instagram}  href="https://www.instagram.com/beedevelopers/?hl=es-la">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a className={styles.twitter}  href="https://www.twitter.com/BeeDevelopers">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
