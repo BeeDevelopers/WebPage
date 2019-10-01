@@ -21,3 +21,18 @@
 .seccion_texto p{
     font-size: 1.7rem;
 }
+
+@media(max-width: 768px){
+    .seccion{
+        flex-direction: column;
+    }
+
+    .seccion img{
+        width: 15rem;
+    }
+
+    .seccion_texto p{
+
+        padding: 2rem;
+    }
+}

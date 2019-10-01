@@ -22,3 +22,9 @@
     font-size: 2rem;
     font-style: italic;
 }
+
+@media(max-width: 768px){
+    .contenedor h2{
+        font-size: 2rem;
+    }
+}

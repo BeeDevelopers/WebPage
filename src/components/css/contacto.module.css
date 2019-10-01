@@ -33,6 +33,10 @@
     margin-right: 2rem;
 }
 
+.redes a:last-of-type{
+    margin-right: 0;
+}
+
 .facebook{
     color: #3b5998;
 
@@ -44,4 +48,36 @@
 
 .twitter{
     color: #1da1f2;
+}
+
+@media(max-width: 768px){
+    .info{
+        flex-direction: column;
+    }
+    .info img{
+        width: 15rem;
+    }
+
+    .texto{
+        max-width: 100%;
+    }
+
+    .texto p{
+        margin: 0;
+        padding: 2rem;
+    }
+
+    .redes{
+        justify-content: center;
+    }
+
+    .texto a {
+        padding: 2rem;
+        font-size: 1.2rem;
+    }
+
+    .redes a{
+        padding: 0rem;
+        font-size: 3.5rem;
+    }
 }

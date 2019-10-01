@@ -26,3 +26,32 @@
 .height{
     height: 2rem;
 }
+
+@media(max-width: 768px){
+    .evento{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .evento img{
+        width: 15rem;
+        margin: 0;
+    }
+
+    .descr{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 100%;
+    }
+
+    .descr p{
+        padding: 2rem;
+    }
+    .descr h3{
+        padding: 2rem;
+        margin: 0;
+    }
+}
