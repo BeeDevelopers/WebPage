@@ -1,0 +1,21 @@
+.separador {
+    display: flex;
+    margin: 0;
+    margin-left: 30%;
+    margin-right: -10%;
+    height: 3rem;
+    padding-left: 0.8rem;
+    align-items: center;    
+    
+    background-color: #1685D9;
+    border-radius: 0.5rem;
+    
+    font-size: 1.5rem;
+    color: white;
+    
+}
+
+.separador h3 {
+    overflow: hidden;
+    
+}
