@@ -1,0 +1,10 @@
+.boton{
+    padding: 1rem 3rem;
+    border-radius: 10rem;
+    text-decoration: none;
+    font-size: 1.7rem;
+    -webkit-box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.21);
+    -moz-box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.21);
+    box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.21);
+}
+
