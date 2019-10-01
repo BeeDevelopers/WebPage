@@ -1,0 +1,24 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2.5rem 0rem;
+}
+
+.contenedor h2{
+    font-size: 2.7rem;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.contenedor p{
+    margin: 0;
+    font-style: italic;
+}
+
+.italic{
+    font-weight: 200;
+    font-size: 2rem;
+    font-style: italic;
+}

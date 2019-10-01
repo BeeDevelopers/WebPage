@@ -1,0 +1,15 @@
+.barra{
+    display: flex;
+    align-items: flex-start;
+    margin: 1rem 0;
+}
+
+.barra a{
+    text-decoration: none;
+    color: #1685D9;
+    margin-right: 2rem; 
+}
+
+.barra i{
+    font-size: 2.2rem;
+}
