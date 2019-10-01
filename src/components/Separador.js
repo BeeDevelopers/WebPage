@@ -6,7 +6,9 @@ export default class Separador extends Component {
     render() {
         return (
             <div className={styles.separador}>
-                <h3>{this.props.title}</h3>
+                <div className={styles.separador_container}>
+                    <h3 className={styles.separador_titulo}>{this.props.titulo}</h3>
+                </div>
             </div>
         );
     }

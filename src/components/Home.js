@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom';
 import styles from './css/home.module.css';
 
 import Boton from './Boton';
+import Separador from './Separador';
 
 export default class Home extends Component {
     render() {
@@ -18,6 +19,7 @@ export default class Home extends Component {
                     </div>
                     <img src="/img/BD_full.png" alt="BeeDevelopers Logo" />
                 </div>
+                <Separador titulo="De estudiantes para estudiantes"></Separador>
             </div>
         );
     }
