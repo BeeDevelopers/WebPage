@@ -1,0 +1,28 @@
+.evento{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 2.5rem 0rem;
+}
+
+.evento img{
+    width: 20rem;
+    margin-right: 5rem;
+    border-radius: 2.5rem;
+}
+.descr{
+    max-width: 30%;
+}
+
+.descr h3{
+    font-size: 2.2rem;
+    margin: 2rem 0rem;
+}
+.descr p{
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.height{
+    height: 2rem;
+}

@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Redes from './RedesSociales'
+import style from './css/noticia.module.css';
 
 
 
