@@ -15,6 +15,7 @@ export default class Router extends Component {
                     {/* <Route exact path="/"component={Home} /> */}
                     {/* <Route component={Error}/> */}
                 </Switch>
+                <Separador title="Pensado por y para estudiantes"></Separador>
 
             </BrowserRouter>
         );
