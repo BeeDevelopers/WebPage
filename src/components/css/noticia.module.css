@@ -34,3 +34,35 @@
 .height{
     height: 2rem;
 }
+
+@media(max-width: 768px) {
+    .evento {
+        flex-direction: column;
+    }
+    .evento img {
+        width: 20rem;
+        margin-right: 0rem;
+        border-radius: 0.6rem;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 0.5rem;
+    }
+
+    .descr {
+        max-width: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .descr h3 {
+        font-size: 1.5rem;
+        margin: 1.5rem 0rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .descr p{
+        font-size: 1rem;
+        margin: 0;
+        line-height: 1.5rem;
+    }
+}

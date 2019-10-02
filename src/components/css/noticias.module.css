@@ -22,3 +22,35 @@
     margin: 4rem;
     margin-top: 0rem;
 }
+
+@media(max-width: 768px) {
+    .noticias{
+        padding-top: 0rem;
+    }
+
+    .contenedor {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 0rem;
+        flex-direction: column;
+    }
+
+    .contenedor p {
+        margin-top: 0rem;
+        padding-right: 1rem;
+        font-size: 1.0rem;
+        line-height: 1.5rem;
+    }
+
+    .contenedor h2 {
+        margin-top: 0rem;
+    }
+    .contenedor img {
+        margin-top: 2rem;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0rem;
+        width: 15rem;
+    }
+
+}
