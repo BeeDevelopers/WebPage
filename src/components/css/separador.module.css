@@ -13,12 +13,9 @@
     margin-right: -10%;
     padding: 0;
     padding-left: 1.8rem;
-    
     align-items: center;    
-    
     background-color: #1685D9;
     border-radius: 0.8rem;
-    
     font-size: 1.8rem;
     color: white;
 }
@@ -29,4 +26,22 @@
     margin-top: 0.0rem;
     margin-bottom: 0.0rem;
     color: white;
+}
+
+@media(max-width: 768px) {
+
+    .separador {
+        margin-left: 20%;
+        max-width: 80%;
+    }
+    .separador_container {
+        font-size: 1rem;
+        border-radius: 0.4rem;
+        padding-left: 0.8rem;
+    }
+
+    .separador_titulo {
+        padding-top: 0.4rem;
+        padding-bottom: 0.4rem;
+    }
 }
