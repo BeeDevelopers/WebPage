@@ -40,26 +40,26 @@ export default class Nosotros extends Component {
                         descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
                     />
                     <Miembro
-                        img="/img/alan.jpg"
-                        nombre="Alan Álvarez"
-                        cargo="Presidente"
+                        img="/img/valeria.png"
+                        nombre="Valeria Cortés"
+                        cargo="Vicepresidente"
                         descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
                     />
                     <Miembro
-                        img="/img/alan.jpg"
-                        nombre="Alan Álvarez"
-                        cargo="Presidente"
+                        img="/img/manuel.jpeg"
+                        nombre="Manuel Espinoza"
+                        cargo="Secretario"
                         descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
                     />
                     <Miembro
-                        img="/img/alan.jpg"
-                        nombre="Alan Álvarez"
-                        cargo="Presidente"
+                        img="/img/idalid.png"
+                        nombre="Idalid Ávila"
+                        cargo="Tesorero"
                         descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
                     />
                 </div>
 
-                <h3>Además de nuestro comité, BeeDevelopers cuenta con más de 25 miembros activos. Todos unidos por el gusto de desarrollar. </h3>
+                <p className={style.leyenda}>Además de nuestro comité, BeeDevelopers cuenta con más de 25 miembros activos. Todos unidos por el gusto de desarrollar. </p>
 
                 <Separador titulo="Nosotros somos BeeDevelopers"/>
                 <div className={style.img_container}>
@@ -74,6 +74,8 @@ export default class Nosotros extends Component {
                     <img alt="img" src="https://lh3.googleusercontent.com/HdUtLe86FOhdszej3jvPuBwnK-FxfamtvV8-6M2xq7PyXCJfnFb4poFH-YhIN0NOSl--FpcU1F1kZXDqPM8exXvasIPdfcCkIutUZxJCgbgWDVBBEh_nTm1KClq4j96RoH9QsQd3jCQ=w1149-h862-no">
                     </img>
                     <img alt="img" src="https://lh3.googleusercontent.com/CeYN3T1nbgvBi6ggfQ5WGYpWXWPAoMHss3zCPgNBP2_pFwQvlHMUfKG9OXAhSAksK99UUyuTHo20xdbFI9ryLVp6OypIMYuLA1f6sJ6R8RNar_qpVBwsrSXHhaqv8tbfQcnkIpwcDIY=w1149-h862-no">
+                    </img>
+                    <img alt="img" src="https://lh3.googleusercontent.com/HpIy3FrDFjsThdy1--OogDm2ZU6XxBmW3Rp_HmU8JiAxoPektuRFKsn-UZIYET3Kz4UPzH8AVSCzaPUOnJFn-ghfeHCUcDld1L-RPejDISFSaeXyzTuaI632lOAMCi4clWgmmEk_cg=w1297-h862-no">
                     </img>
                 </div>
             </div>
