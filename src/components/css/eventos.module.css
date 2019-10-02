@@ -20,6 +20,7 @@
 
 .seccion_texto p{
     font-size: 1.7rem;
+    line-height: 1.7rem;
 }
 
 @media(max-width: 768px){
@@ -32,7 +33,7 @@
     }
 
     .seccion_texto p{
-
+        font-size: 1.2rem;
         padding: 2rem;
     }
 }
