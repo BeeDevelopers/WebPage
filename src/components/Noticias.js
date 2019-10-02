@@ -9,14 +9,14 @@ export default class Noticias extends Component {
     render() {
         return (
             <div className={style.noticias}>
+                <Titulo pre_titulo="print(" titulo="Hola Mundo" post_titulo=")" leyenda="Buscando impactar."/>
                 <div className={style.contenedor}>
                     <p>
-                    <h3>Nuestra Comunidad Activa.</h3>
+                    <h2>Nuestra Comunidad Activa.</h2>
                     Sé parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos.</p>
                     <img alt="ilustracion" src="/img/undraw_investment.svg"/>
                 </div>
 
-                <Titulo pre_titulo="print(" titulo="Hola Mundo" post_titulo=")" leyenda="Buscando impactar."/>
                 <Separador titulo="LinceHack 2019"/>
                 <Noticia
                 ubicacion="Instituto Tecnológico de Celaya. Septiembre 2019"
