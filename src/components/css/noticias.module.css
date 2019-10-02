@@ -1,0 +1,23 @@
+.noticias{
+    padding-top: 2rem;
+}
+
+
+.contenedor {
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 4rem;
+}
+
+.contenedor p {
+    color: #3E4756;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-right: 3rem;
+}
+
+.contenedor img {
+    width: 30rem;
+    margin: 4rem;
+    margin-top: 0rem;
+}

@@ -1,9 +1,7 @@
 .separador {
     margin-left: 30%;
-    /* margin-top: 3rem; */
     overflow: hidden;
     padding: 0;
-    /* height: 3rem; */
     max-width: 70%;
 }
 
@@ -11,7 +9,6 @@
     margin: 0;
     display: flex;
     margin-right: -10%;
-    /* height: 3rem; */
     padding: 0;
     padding-left: 1.8rem;
     
@@ -20,7 +17,7 @@
     background-color: #1685D9;
     border-radius: 0.8rem;
     
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     color: white;
 }
 
