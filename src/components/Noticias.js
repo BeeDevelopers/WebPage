@@ -17,6 +17,18 @@ export default class Noticias extends Component {
                     <img alt="ilustracion" src="/img/undraw_investment.svg"/>
                 </div>
 
+                <Separador titulo="Somos Comunidad TalentLand 2020"/>
+                <Noticia
+                ubicacion="Guadalajara Jalisco, 2020."
+                imagen="/img/talentland2020.jpg"
+                img_descr="Flayer de Hackathon"
+                titulo="Nos vemos en TalentLand 2020"
+                texto="Somos parte de las comunidades de talento de la próxima edición de Jalisco Talent Land 2020. Esperamos contar con tu participación en este evento para demostrar que BeeDevelopers está lleno de talentos.
+                Recibimos entradas patrocinadas por TalentNetwork (no incluyen camping), que serán otorgadas como premio a los miembros más activos de nuestra comunidad. ¿Quieres ganare una?, ¡Demuestra que eres un talento!."
+                facebook="#"
+                instagram="#"
+                twitter="#"
+                ></Noticia>
                 <Separador titulo="LinceHack 2019"/>
                 <Noticia
                 ubicacion="Instituto Tecnológico de Celaya. Septiembre 2019"
