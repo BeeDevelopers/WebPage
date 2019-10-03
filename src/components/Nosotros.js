@@ -35,27 +35,33 @@ export default class Nosotros extends Component {
                 <div className={style.miembro_container}>
                     <Miembro
                         img="/img/alan.jpg"
-                        nombre="Alan Álvarez"
+                        nombre="Alan Alvarez"
                         cargo="Presidente"
-                        descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
+                        descripcion="Desarrollo Web: React.js, Vue.js, Node.js, Django, HTML5, CSS3. Escritorio: Electron.js, C#. Bases de Datos: MySQL, Oracle, MongoDB. Aplicaciones Móviles: ReactNative. Lenguajes: C, C++, pyhton, JavaScript, C#, Java."
                     />
                     <Miembro
                         img="/img/valeria.png"
                         nombre="Valeria Cortés"
                         cargo="Vicepresidente"
-                        descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
+                        descripcion="Apps móviles: Android 
+                        Lenguajes de programación: C, C++, C#, Java, Python
+                        Desarrollo Web: HTML5, CSS3, PHP, JSON, XML, Ruby on Rails
+                        Base de datos: MySQL, Oracle, MSSQL."
                     />
                     <Miembro
                         img="/img/manuel.jpeg"
                         nombre="Manuel Espinoza"
                         cargo="Secretario"
-                        descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
+                        descripcion="Lenguajes de programación: C, C++, C#, Java, Python
+                        Base de datos: SQL / MSSQL / MySQL / Oracle
+                        Desarrollo móvil: Android
+                        Desarrollo Web: HTML5, CSS3, JavaScript, PHP, XML, JSON, Ruby on Rails."
                     />
                     <Miembro
                         img="/img/idalid.png"
                         nombre="Idalid Ávila"
                         cargo="Tesorero"
-                        descripcion="Desarrollo Web. React.js. Vue.js. JavaScript. Node. Python. C++. Java."
+                        descripcion="Desarrollo web: Angular, node.js, HTML5, CSS. Aplicaciones de escritorio: c#, c++. Gestión de base de datos: MySQL, SQL, Oracle. Aplicaciones móviles: Java, Android."
                     />
                 </div>
 

@@ -19,7 +19,7 @@ export default class Contacto extends Component {
 
                 <div className={seccion.seccion} >
                     <div className={seccion.seccion_texto}>
-                        <p><span>Desarrolla tus conocimientos.</span> Se parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos.</p>
+                        <p>En <span>BeeDevelopers</span> queremos escucharte. Síguenos en nuestras redes sociales donde tenemos contenido interesante y publicamos información relevante para ti. Enterate de todo lo relacionado a desarrollo de software y de como trabajamos para llegar a ser la mejor comunidad de desarrolladores.</p>
                     </div>
                     <img src="/img/social_media.svg" alt="Social Media" />
                 </div>

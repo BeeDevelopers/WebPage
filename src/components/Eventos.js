@@ -14,7 +14,7 @@ export default class Eventos extends Component {
                 <Titulo pre_titulo="git init" titulo="Eventos" leyenda="Todo para ti."/>
                 <div className={style.seccion} >
                     <div className={style.seccion_texto}>
-                        <p><span>Desarrolla tus conocimientos.</span> Se parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos.</p>
+                        <p><span>Aquí es donde todo sucede.</span> Se parte de los eventos que tenemos preparados para ti. Comparte nuevas experiencias y profundiza en los temas que te gustan. Desde talleres y curso, pasando por conferencias y llegando hasta convivios y viajes. Todo para ti.</p>
                     </div>
                     <img src="/img/computer_gift.svg" alt="Code review" />
                 </div>
@@ -26,15 +26,15 @@ export default class Eventos extends Component {
                     imagen="/img/hackflayer.png"
                     img_descr="Flayer de Hackathon"
                     titulo="HackDevelopers"
-                    texto="Se parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos."
+                    texto="Próximanente en DICIS el hackathon que estabas buscando. Ánimate a participar y vivir esta gran experiencia."
                     facebook="#"
                     instagram="#"
                     twitter="#"
                 />
 
-                <Separador titulo="Nuestros Eventos" />
+                {/* <Separador titulo="Nuestros Eventos" /> */}
                 
-                <EventoRegistro
+                {/* <EventoRegistro
                     imagen="/img/hackflayer.png"
                     img_descr="Flayer de Hackathon"
                     titulo="DevWeek- Curso de React"
@@ -43,7 +43,7 @@ export default class Eventos extends Component {
                     instagram="#"
                     twitter="#"
                     linkRegistro="#"
-                />
+                /> */}
 
             </div>
         );
