@@ -14,7 +14,7 @@ export default class Home extends Component {
                             <h1>Somos <span>BeeDevelopers</span></h1>
                             <p>La comunidad de <span>desarrolladores</span> para <span>desarrolladores</span></p>
                         </div>
-                        <Boton link="#" texto="Conoce más" colorfondo="#FFFFFF" colorfuente="#1685D9"/>
+                        <Boton link="/nosotros" texto="Conoce más" colorfondo="#FFFFFF" colorfuente="#1685D9"/>
                     </div>
                     <img src="/img/BD_full.png" alt="BeeDevelopers Logo" />
                 </div>
@@ -50,7 +50,7 @@ export default class Home extends Component {
                         <img className={styles.especial} src="/img/chica_laptop.svg" alt="Tecnologías" />
                         <img src="/img/code_team.svg" alt="Tecnologías" />
                     </div>
-                    <Boton  link="#" texto="Contáctanos" colorfondo="#1685D9" colorfuente="#ffffff" />
+                    <Boton  link="/contacto" texto="Contáctanos" colorfondo="#1685D9" colorfuente="#ffffff" />
                 </div>
 
             </div>

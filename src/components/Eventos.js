@@ -27,9 +27,9 @@ export default class Eventos extends Component {
                     img_descr="Flayer de Hackathon"
                     titulo="HackDevelopers"
                     texto="Próximanente en DICIS el hackathon que estabas buscando. Ánimate a participar y vivir esta gran experiencia."
-                    facebook="#"
-                    instagram="#"
-                    twitter="#"
+                    facebook="https://www.facebook.com/BeeDevelopersUG/"
+                    instagram="https://www.instagram.com/beedevelopers/?hl=es-la"
+                    twitter="https://twitter.com/BeeDevelopers"
                 />
 
                 {/* <Separador titulo="Nuestros Eventos" /> */}
