@@ -17,3 +17,9 @@
 .barra i{
     font-size: 2.2rem;
 }
+
+@media(max-width: 768px) {
+    .barra{
+        justify-content: center;
+    }
+}
