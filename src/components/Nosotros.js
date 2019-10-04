@@ -40,15 +40,6 @@ export default class Nosotros extends Component {
                         descripcion="Desarrollo Web: React.js, Vue.js, Node.js, Django, HTML5, CSS3. Escritorio: Electron.js, C#. Bases de Datos: MySQL, Oracle, MongoDB. Aplicaciones Móviles: ReactNative. Lenguajes: C, C++, pyhton, JavaScript, C#, Java."
                     />
                     <Miembro
-                        img="/img/valeria.png"
-                        nombre="Valeria Cortés"
-                        cargo="Vicepresidente"
-                        descripcion="Apps móviles: Android 
-                        Lenguajes de programación: C, C++, C#, Java, Python
-                        Desarrollo Web: HTML5, CSS3, PHP, JSON, XML, Ruby on Rails
-                        Base de datos: MySQL, Oracle, MSSQL."
-                    />
-                    <Miembro
                         img="/img/manuel.jpeg"
                         nombre="Manuel Espinoza"
                         cargo="Secretario"
@@ -56,6 +47,15 @@ export default class Nosotros extends Component {
                         Base de datos: SQL / MSSQL / MySQL / Oracle
                         Desarrollo móvil: Android
                         Desarrollo Web: HTML5, CSS3, JavaScript, PHP, XML, JSON, Ruby on Rails."
+                    />
+                    <Miembro
+                        img="/img/valeria.png"
+                        nombre="Valeria Cortés"
+                        cargo="Vicepresidente"
+                        descripcion="Apps móviles: Android 
+                        Lenguajes de programación: C, C++, C#, Java, Python
+                        Desarrollo Web: HTML5, CSS3, PHP, JSON, XML, Ruby on Rails
+                        Base de datos: MySQL, Oracle, MSSQL."
                     />
                     <Miembro
                         img="/img/idalid.png"

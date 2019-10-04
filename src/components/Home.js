@@ -28,6 +28,7 @@ export default class Home extends Component {
                 <Separador titulo="Pensado por y para estudiantes" />
                 <div className={styles.seccion}>
                     <div className={styles.seccion_texto}>
+                        <h2>La comunidad estudiantil que esperabas.</h2>
                         <p>Estamos integrados por <span>personas activas</span> y deseosas de ser un modelo a seguir para las nuevas generaciones de desarrolladores y para toda nuestra comunidad universitaria en general. Una de nuestras grandes fortalezas es el <span>sentimiento de compañerismo</span>, gracias a eso hemos formado más que un grupo de amigos, hemos formado una <span>familia</span></p>
                     </div>
                     <img className={styles.foto} src="/img/BD_grupo.jpeg" alt="Foto Grupal" />
@@ -36,6 +37,7 @@ export default class Home extends Component {
                 <div className={styles.seccion}>
                     <img src="/img/static_assets.svg" alt="Tecnologías" />
                     <div className={styles.seccion_texto}>
+                        <h2>Aprende y desarrolla.</h2>
                         <p><span>Desarrolla tus conocimientos.</span> Nuestro principal objetivo es el flujo de conocimiento. Buscamos ser el lugar donde las personas compartan experiencias, consejos, nuevas herramientas y sobre todo ánimo para continuar mejorando las skills que te definirán como un desarrollador de software.</p>
                     </div>
                 </div>

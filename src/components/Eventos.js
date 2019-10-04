@@ -14,7 +14,8 @@ export default class Eventos extends Component {
                 <Titulo pre_titulo="git init" titulo="Eventos" leyenda="Todo para ti."/>
                 <div className={style.seccion} >
                     <div className={style.seccion_texto}>
-                        <p><span>Aquí es donde todo sucede.</span> Se parte de los eventos que tenemos preparados para ti. Comparte nuevas experiencias y profundiza en los temas que te gustan. Desde talleres y curso, pasando por conferencias y llegando hasta convivios y viajes. Todo para ti.</p>
+                        <h2>Aquí es donde todo sucede.</h2>
+                        <p>Se parte de los eventos que tenemos preparados para ti. Comparte nuevas experiencias y profundiza en los temas que te gustan. Desde talleres y curso, pasando por conferencias y llegando hasta convivios y viajes. Todo para ti.</p>
                     </div>
                     <img src="/img/computer_gift.svg" alt="Code review" />
                 </div>
