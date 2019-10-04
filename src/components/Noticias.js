@@ -24,7 +24,7 @@ export default class Noticias extends Component {
                 img_descr="Flayer de Hackathon"
                 titulo="Nos vemos en TalentLand 2020"
                 texto="Somos parte de las comunidades de talento de la próxima edición de Jalisco Talent Land 2020. Esperamos contar con tu participación en este evento para demostrar que BeeDevelopers está lleno de talentos.
-                Recibimos entradas patrocinadas por TalentNetwork (no incluyen camping), que serán otorgadas como premio a los miembros más activos de nuestra comunidad. ¿Quieres ganare una?, ¡Demuestra que eres un talento!."
+                Recibimos entradas patrocinadas por TalentNetwork (no incluyen camping), que serán otorgadas como premio a los miembros más activos de nuestra comunidad. ¿Quieres ganarte una?, ¡Demuestra que eres un talento!."
                 facebook="#"
                 instagram="#"
                 twitter="#"
