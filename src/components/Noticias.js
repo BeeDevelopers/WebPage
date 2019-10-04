@@ -36,7 +36,7 @@ export default class Noticias extends Component {
                 imagen="https://lh3.googleusercontent.com/XlrucayvsllC4O2xWivmobTsNx9PVnzNsL8384TBApL-Uih0WqBAxVUoFj26I4o8cSaG_V4ggoR4Ij8Ue4AnbqGrRqoWR5899n3KeVTyxv-So8bfesazJbaPrM_G1a_UxWePWBL3C9U=w960-h640-no"
                 img_descr="Flayer de Hackathon"
                 titulo="Primer Lugar"
-                texto="Miembros de BeeDevelopers junto con Apolo UG obtuvieron el primer lugar en el hackathon LinceHack realizada por el Tecnológico de Celaya con la presentación de la plataforma educativa 'Eduverso'."
+                texto="Miembros de BeeDevelopers junto con Apolo UG obtuvieron el primer lugar en el hackathon LinceHack realizada por el Tecnológico de Celaya con la presentación de la plataforma educativa 'Ludoverso'."
                 facebook="#"
                 instagram="#"
                 twitter="#"
