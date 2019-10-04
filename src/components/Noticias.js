@@ -29,13 +29,14 @@ export default class Noticias extends Component {
                 instagram="#"
                 twitter="#"
                 ></Noticia>
+
                 <Separador titulo="LinceHack 2019"/>
                 <Noticia
                 ubicacion="Instituto Tecnológico de Celaya. Septiembre 2019"
                 imagen="https://lh3.googleusercontent.com/XlrucayvsllC4O2xWivmobTsNx9PVnzNsL8384TBApL-Uih0WqBAxVUoFj26I4o8cSaG_V4ggoR4Ij8Ue4AnbqGrRqoWR5899n3KeVTyxv-So8bfesazJbaPrM_G1a_UxWePWBL3C9U=w960-h640-no"
                 img_descr="Flayer de Hackathon"
                 titulo="Primer Lugar"
-                texto="Se parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos."
+                texto="Miembros de BeeDevelopers junto con Apolo UG obtuvieron el primer lugar en el hackathon LinceHack realizada por el Tecnológico de Celaya con la presentación de la plataforma educativa 'Eduverso'."
                 facebook="#"
                 instagram="#"
                 twitter="#"
@@ -47,7 +48,7 @@ export default class Noticias extends Component {
                 imagen="https://lh3.googleusercontent.com/EKz-ALKrGjJWfhXsXCj3vxGGcKWancHePXzLNJbhUv2v0LDuDpwMSjam0rUeE_eJ1hYpIEJqPE8vRTKxL-g4RQtOsbhTJLigGL9KZYQFtG00Q4ojUbjo-0r6VhWUHh4s2zuStV61=w1149-h862-no"
                 img_descr="Flayer de Hackathon"
                 titulo="Quinto Lugar"
-                texto="Se parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos."
+                texto="Un equipo conformado por miebros de BeeDevelopers concursaron el el Hackathon BBVA 2019 en la Cuidad de México y obtuvieron el quinto lugar."
                 facebook="#"
                 instagram="#"
                 twitter="#"
@@ -58,8 +59,8 @@ export default class Noticias extends Component {
                 ubicacion="División de Ingenierías Campus Irapuato Salamanca. Septiembre 2019"
                 imagen="https://lh3.googleusercontent.com/Fe-nHdAXtPr4R9irQu15nQXMG6dfdy0z9C63B5vg0hn5N1xtnbpfbHX-0t9lpz4I4uB5mDOTh0bVOxIzM-h0MupwJDW3KFZSeOdIn-VIJokjFO5keDP10yZJeB9uckutY_UsSFNlPw=w1297-h862-no"
                 img_descr="Flayer de Hackathon"
-                titulo="Quinto Lugar"
-                texto="Se parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos."
+                titulo="Festejo del día de la Independencia"
+                texto="BeeDevelopers festejó en DICIS el día de la Independencia con frescas rusas y ricos buñuelos."
                 facebook="#"
                 instagram="#"
                 twitter="#"

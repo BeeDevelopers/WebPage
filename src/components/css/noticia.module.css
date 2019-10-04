@@ -25,10 +25,13 @@
 .descr h3{
     font-size: 2.2rem;
     margin: 2rem 0rem;
+    margin-bottom: 0.5rem;
 }
 .descr p{
     font-size: 1.5rem;
+    line-height: 2rem;
     margin: 0;
+    margin-bottom: 1rem;
 }
 
 .height{

@@ -3,9 +3,11 @@
 
 }
 .container img {
-    width: 45%; 
+    width: 35%;
+    min-width: 25rem; 
     margin: 5rem;
     margin-top: 0rem;
+    margin-bottom: auto;
     border-radius: 0.6rem;
 }
 
@@ -74,6 +76,7 @@
     }
 
     .container img {
+        min-width: 15rem; 
         width: 15rem;
         margin: 0;
     }
