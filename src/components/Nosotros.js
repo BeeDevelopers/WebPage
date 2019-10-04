@@ -14,8 +14,8 @@ export default class Nosotros extends Component {
                 <div className={style.container}>
                     <img alt="grupo2" src="/img/grupo2.jpeg"/>
                     <p>
-                    <h2>Desarrolla tus conocimientos. </h2>
-                    Sé parte de esta gran comunidad donde aprenderás desde el lenguaje más básico de programación hasta el uso de los frameworks más modernos.
+                    <h2>Sobre nosotros</h2>
+                    El grupo inició a finales de 2018 con varios alumnos de la carrera de Sistemas Computacionales de distintos semestres unidos por el propósito común de expadir los conocimientos del programa escolar. Bajo la coordinación del Dr. Juan Carlos Gómez Carranza se sentaron las bases de lo que sería BeeDevelopers.
                     </p>
                 </div>
                 <div className={style.mision}>
