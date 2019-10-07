@@ -89,7 +89,7 @@ export default class Noticias extends Component {
                 twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
 
-                <Separador titulo="Talen Hackathon"/>
+                <Separador titulo="Talent Hackathon"/>
                 <Noticia
                 ubicacion="Guadalajara Talent Land, 2019"
                 imagen="https://lh3.googleusercontent.com/A5DvxsusfFw4KjQAxA5yCYtHqekIkDIpoXhAKJ3WYShs3-FIQ7vc25Sd6J8sfoPt-CWkxF-AKzA9oHiVO6k18xf59nEqDeVCnU5DQselDSEndWUr5S9aqIN4AjJxucef36cTpHKjn3Qt1uEhYKlffsii7Sx4RX5TS63hB28tA86MH48oicCmWkTXZT9A5-Dfv5StZOkX4RokDX0Temig8gToyY6cSLoDrHTlmmtKC1CnVljycA7OZoubpXwsxh8qMwjg-w9KaOkDHb5SI9-J0AmWELxcU3c9emYsOJa4F9hifJYfc_Um0gjj5O272RQqv0KMoiUHfQO1Z9DwxJj74jXGSdVEEfoVL3659y94QNilBm4qPYCfTWN2IPwG72-MQUxz8nhz8r7TOhAvUQTiTX97FL898AF9JVqDIlP-mLCCsDot899dtjegUWRXArhHsPYbElHDcoetUQE79LGxzvcgxuwSP2hlfhO-0S4SYvc4FxDYqhllMVO6uEm5LM-m6YULxvSfpcu1QfjcVIdiUtf1vzBwA9gPrMI91Hv34gzsfTToAgnUmsnSZXNHrcnLCHKUUwXdPNVdjjRsGipPdjHEz0eaOsDWZCdgaMdbYqaKh6nGb2vvXQ6Asgr-pcGfg_Dwjh-s64SWm6ld5HYgsyIaHys_LDgYCw9F81WdteEQdjrqlj4Er59nVrTHHXgCYkjNPJfaF-4Byso-Sjmyux7ax2za_2vbWwpSbdvL2jHRo54=w1080-h718-no"
