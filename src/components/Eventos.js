@@ -43,7 +43,7 @@ export default class Eventos extends Component {
                     linkRegistro="https://forms.gle/CmLa9tmhSL1c6evZ7"
                 />
                 <EventoRegistro
-                    imagen="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"
+                    imagen="https://image.jimcdn.com/app/cms/image/transf/none/path/s2de60dfd252ce07c/image/i0cc5e148cce00046/version/1559501611/image.png"
                     img_descr="C++ logo"
                     titulo="Programación en C++"
                     texto="Fecha: Miércoles 16 de Octube de 12:00 - 14:00 hrs. C++ es el lenguaje apropiado para comenzar a aprender el paradigma de la programación orientada a objetos."
