@@ -36,7 +36,7 @@ export default class Eventos extends Component {
                 <Separador titulo="Talleres Internos" />
                 
                 <EventoRegistro
-                    imagen="https://www.pngkey.com/png/detail/36-361074_c-logo-lenguaje-de-programacion-c.png"
+                    imagen="http://rbwebsolutions.in/wp-content/uploads/2018/05/c-programming.png"
                     img_descr="C logo"
                     titulo="Programación en C"
                     texto="Fecha: Martes 15 de Octube de 14:00 - 16:00 hrs. C es para muchos el primer lenguaje con el que entran en contacto con el mundo de la programación."
