@@ -17,6 +17,17 @@ export default class Noticias extends Component {
                     <img alt="ilustracion" src="/img/undraw_investment.svg"/>
                 </div>
 
+                <Separador titulo="XXI Foro Regional de Vinculación ANUIES"/>
+                <Noticia
+                ubicacion="UTEG Americas. Guadalajara, Jalisco. Octubre 2019"
+                imagen="https://scontent.fcyw3-1.fna.fbcdn.net/v/t1.0-9/71800513_2587578461292537_7159535771752333312_n.jpg?_nc_cat=110&_nc_oc=AQmJS1b-_gMJj2himrCHKyDGJbmeebHQvMnD1NB93wJK9Ob-OY4rwtWLeOXFT-w724Y&_nc_ht=scontent.fcyw3-1.fna&oh=f8a7618d3c62b0c3255bf4a9334cc621&oe=5E20B3B0"
+                img_descr="UTEG America"
+                titulo="BeeDevelopers representando a la Universidad de Guanajuato"
+                texto="Agradecemos a nuestros miembros que participaron en los retos propuestos en la XXI edición del Foro Regional de Vinvulación ANUIES. Agradecemos también a Javier Sánchez, compañero de Artes Digitales, que de igual manera participó en este evento. ¡Felicidades!."
+                facebook="#"
+                instagram="#"
+                twitter="#"
+                ></Noticia>
                 <Separador titulo="Nuevos Miembros"/>
                 <Noticia
                 ubicacion="DICIS Salamanca, Gto."
