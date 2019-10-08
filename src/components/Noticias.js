@@ -93,14 +93,14 @@ export default class Noticias extends Component {
                 ubicacion="División de Ingenierías Campus Irapuato Salamanca. Mayo 2019"
                 imagen="https://lh3.googleusercontent.com/Nxh0utpk4cvASZlCyY23607W0NFzOA8gXzSfc6G-aoVDqNx45xi-tntSsvmXf7RYpYsORjT5e1phewkyAvprke8OqI3Px2NYyJCP4sDuYjzG9hx9D8C-O3EyUMhRZn6Xb4EGEmQgNGdgZRjMsOQV6MHXIEwBW1d-IFHxxNztjsVq155t2tvncpRPWRib9YRwoY8jW2ESgIN7UOLWSu-aeZ2Sq0PVTXhjxBXaCkP8xx15_IUaTaWRrVcaWzRGLZmv1ArSluP08G7igfMC-tBI11sN34EgEWQsWqLuvzP4-aVmCbNFvOnnUXl0JlsIIcVRiqQu3aI3cT5dg6IUSBGfwVizPJZIhSBj-pFko0S4tJStLpzyCJhOIUWqVFJ39uVAMDG_Mb_JlQzsKzv33p1VZF9KFGgYONXcdnMzgLiNfEQQsf2UhACBCgoph0cpPcQ9mKV8qEBGoQu1nbdxT5XdxKLON02V6nlah3Wx7rJ2cv3zHHdEnWCzW7F-0fByVDNHv2UrjnnW8fDSfG8HsbWhtMry-GI-XzvL0FZ8kB3Q6xvsR9q20BzoGWCDr43rGb2JcAcizN9Tv2C4ChPe0v_I8gG-e3FyjIt39IB2dLIIqMA2FmEgdyCejwskAxNhS7u69-n9Ws6v93FKM5KMAbUxIPIbLxvNfR-bW_TosnBPMLm8--KYtleay1lPNXIHNVepSuDIG2QPPKfre0fNypAUNfPgBjDo46ILZcdnhiaLOFyVh6I=w1132-h752-no"
                 img_descr="DiaDE"
-                titulo="Toreno de Super Smash Bros"
+                titulo="Torneo de Super Smash Bros"
                 texto="BeeDevelopers festejó el Día del Estudiante Universitario organizando un torneo de el popular juego Super Smash Bros, el primer lugar se llevaró un premio. Además se dieron stickers y dulces a los participantes."
                 facebook="https://www.facebook.com/BeeDevelopersUG/"
                 instagram="https://www.instagram.com/beedevelopers/"
                 twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
 
-                <Separador titulo="Talen Hackathon"/>
+                <Separador titulo="Talent Hackathon"/>
                 <Noticia
                 ubicacion="Guadalajara Talent Land, 2019"
                 imagen="https://lh3.googleusercontent.com/A5DvxsusfFw4KjQAxA5yCYtHqekIkDIpoXhAKJ3WYShs3-FIQ7vc25Sd6J8sfoPt-CWkxF-AKzA9oHiVO6k18xf59nEqDeVCnU5DQselDSEndWUr5S9aqIN4AjJxucef36cTpHKjn3Qt1uEhYKlffsii7Sx4RX5TS63hB28tA86MH48oicCmWkTXZT9A5-Dfv5StZOkX4RokDX0Temig8gToyY6cSLoDrHTlmmtKC1CnVljycA7OZoubpXwsxh8qMwjg-w9KaOkDHb5SI9-J0AmWELxcU3c9emYsOJa4F9hifJYfc_Um0gjj5O272RQqv0KMoiUHfQO1Z9DwxJj74jXGSdVEEfoVL3659y94QNilBm4qPYCfTWN2IPwG72-MQUxz8nhz8r7TOhAvUQTiTX97FL898AF9JVqDIlP-mLCCsDot899dtjegUWRXArhHsPYbElHDcoetUQE79LGxzvcgxuwSP2hlfhO-0S4SYvc4FxDYqhllMVO6uEm5LM-m6YULxvSfpcu1QfjcVIdiUtf1vzBwA9gPrMI91Hv34gzsfTToAgnUmsnSZXNHrcnLCHKUUwXdPNVdjjRsGipPdjHEz0eaOsDWZCdgaMdbYqaKh6nGb2vvXQ6Asgr-pcGfg_Dwjh-s64SWm6ld5HYgsyIaHys_LDgYCw9F81WdteEQdjrqlj4Er59nVrTHHXgCYkjNPJfaF-4Byso-Sjmyux7ax2za_2vbWwpSbdvL2jHRo54=w1080-h718-no"
