@@ -22,12 +22,10 @@ export default class Noticias extends Component {
                 ubicacion="UTEG Americas. Guadalajara, Jalisco. Octubre 2019"
                 imagen="https://scontent.fcyw3-1.fna.fbcdn.net/v/t1.0-9/71800513_2587578461292537_7159535771752333312_n.jpg?_nc_cat=110&_nc_oc=AQmJS1b-_gMJj2himrCHKyDGJbmeebHQvMnD1NB93wJK9Ob-OY4rwtWLeOXFT-w724Y&_nc_ht=scontent.fcyw3-1.fna&oh=f8a7618d3c62b0c3255bf4a9334cc621&oe=5E20B3B0"
                 img_descr="UTEG America"
-                titulo="BeeDevelopers representando a la Universidad de Guanajuato"
+                titulo="Representando a la Universidad de Guanajuato"
                 texto="Agradecemos a nuestros miembros que participaron en los retos propuestos en la XXI edición del Foro Regional de Vinvulación ANUIES. Agradecemos también a Javier Sánchez, compañero de Artes Digitales, que de igual manera participó en este evento. ¡Felicidades!."
-                facebook="#"
-                instagram="#"
-                twitter="#"
                 ></Noticia>
+
                 <Separador titulo="Nuevos Miembros"/>
                 <Noticia
                 ubicacion="DICIS Salamanca, Gto."
@@ -35,10 +33,8 @@ export default class Noticias extends Component {
                 img_descr="Nuevos Integrantes"
                 titulo="Nuestra comunidad, creciendo"
                 texto="Con más de 25 miembros nuevos, BeeDevelopers sigue creciendo demostrando que podemos ser más que un simple grupo organizado. Queremos lograr mucho más y esperamos hacerlo con todo el nuevo apoyo. ¡Gracias!."
-                facebook="#"
-                instagram="#"
-                twitter="#"
                 ></Noticia>
+
                 <Separador titulo="Somos Comunidad TalentLand 2020"/>
                 <Noticia
                 ubicacion="Guadalajara Jalisco, 2020."
@@ -47,9 +43,6 @@ export default class Noticias extends Component {
                 titulo="Nos vemos en TalentLand 2020"
                 texto="Somos parte de las comunidades de talento de la próxima edición de Jalisco Talent Land 2020. Esperamos contar con tu participación en este evento para demostrar que BeeDevelopers está lleno de talentos.
                 Recibimos entradas patrocinadas por TalentNetwork (no incluyen camping), que serán otorgadas como premio a los miembros más activos de nuestra comunidad. ¿Quieres ganarte una?, ¡Demuestra que eres un talento!."
-                facebook="https://www.facebook.com/BeeDevelopersUG/"
-                instagram="https://www.instagram.com/beedevelopers/"
-                twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
 
                 <Separador titulo="LinceHack 2019"/>
@@ -59,9 +52,6 @@ export default class Noticias extends Component {
                 img_descr="Flayer de Hackathon"
                 titulo="Primer Lugar"
                 texto="Miembros de BeeDevelopers junto con Apolo UG obtuvieron el primer lugar en el hackathon LinceHack realizada por el Tecnológico de Celaya con la presentación de la plataforma educativa 'Ludoverso'."
-                facebook="#"
-                instagram="#"
-                twitter="#"
                 ></Noticia>
 
                 <Separador titulo="Hackathon BBVA"/>
@@ -71,9 +61,6 @@ export default class Noticias extends Component {
                 img_descr="Flayer de Hackathon"
                 titulo="Quinto Lugar"
                 texto="Un equipo conformado por miebros de BeeDevelopers concursaron el el Hackathon BBVA 2019 en la Cuidad de México y obtuvieron el quinto lugar."
-                facebook="https://www.facebook.com/BeeDevelopersUG/"
-                instagram="https://www.instagram.com/beedevelopers/"
-                twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
 
                 <Separador titulo="Festividad Mexicana y prevención del suicidio"/>
@@ -83,9 +70,6 @@ export default class Noticias extends Component {
                 img_descr="Flayer de Hackathon"
                 titulo="Festejo del día de la Independencia"
                 texto="BeeDevelopers festejó en DICIS el día de la Independencia con frescas rusas y ricos buñuelos."
-                facebook="https://www.facebook.com/BeeDevelopersUG/"
-                instagram="https://www.instagram.com/beedevelopers/"
-                twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
 
                 <Separador titulo="Día del Estudiante"/>
@@ -95,9 +79,6 @@ export default class Noticias extends Component {
                 img_descr="DiaDE"
                 titulo="Torneo de Super Smash Bros"
                 texto="BeeDevelopers festejó el Día del Estudiante Universitario organizando un torneo de el popular juego Super Smash Bros, el primer lugar se llevaró un premio. Además se dieron stickers y dulces a los participantes."
-                facebook="https://www.facebook.com/BeeDevelopersUG/"
-                instagram="https://www.instagram.com/beedevelopers/"
-                twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
 
                 <Separador titulo="Talent Hackathon"/>
@@ -107,9 +88,6 @@ export default class Noticias extends Component {
                 img_descr="Talent Hackathon"
                 titulo="Participación en el TalentHackathon 2019"
                 texto="Agradecemos la participación de nuestros compañeros de BeeDevelopers en este Hacktahon, demostrando que nuestro grupo está lleno de talentos. ¡Muchas felicidades!. "
-                facebook="https://www.facebook.com/BeeDevelopersUG/"
-                instagram="https://www.instagram.com/beedevelopers/"
-                twitter="https://twitter.com/BeeDevelopers"
                 ></Noticia>
             </div>
         );
