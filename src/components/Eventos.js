@@ -39,21 +39,21 @@ export default class Eventos extends Component {
                     imagen="http://rbwebsolutions.in/wp-content/uploads/2018/05/c-programming.png"
                     img_descr="C logo"
                     titulo="Programación en C"
-                    texto="Fecha: Martes 15 de Octube de 14:00 - 16:00 hrs. C es para muchos el primer lenguaje con el que entran en contacto con el mundo de la programación."
+                    texto="Fecha: Martes 15 de Octubre de 14:00 - 16:00 hrs. C es para muchos el primer lenguaje con el que entran en contacto con el mundo de la programación."
                     linkRegistro="https://forms.gle/CmLa9tmhSL1c6evZ7"
                 />
                 <EventoRegistro
                     imagen="https://image.jimcdn.com/app/cms/image/transf/none/path/s2de60dfd252ce07c/image/i0cc5e148cce00046/version/1559501611/image.png"
                     img_descr="C++ logo"
                     titulo="Programación en C++"
-                    texto="Fecha: Miércoles 16 de Octube de 12:00 - 14:00 hrs. C++ es el lenguaje apropiado para comenzar a aprender el paradigma de la programación orientada a objetos."
+                    texto="Fecha: Miércoles 16 de Octubre de 12:00 - 14:00 hrs. C++ es el lenguaje apropiado para comenzar a aprender el paradigma de la programación orientada a objetos."
                     linkRegistro="https://forms.gle/zP8LeK6Y1xkEsCgh6"
                 />
                 <EventoRegistro
                     imagen="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
                     img_descr="React.js logo"
                     titulo="Desarrollo Web con React.js"
-                    texto="Fecha: Miércoles 16 de Octube de 14:00 - 16:00 hrs. Aprenderas el uso básico de terminal, editor de textos, uso de AdobeXD para hacer el diseño de tus aplicaciones y React.js."
+                    texto="Fecha: Miércoles 16 de Octubre de 14:00 - 16:00 hrs. Aprenderas el uso básico de terminal, editor de textos, uso de AdobeXD para hacer el diseño de tus aplicaciones y React.js."
                     linkRegistro="https://forms.gle/Fd7jD45moVU97epJ7"
                 />
 
