@@ -17,6 +17,33 @@ export default class Noticias extends Component {
                     <img alt="ilustracion" src="/img/undraw_investment.svg"/>
                 </div>
 
+                <Separador titulo="Top 10 NASA Space App Challenge Gto."/>
+                <Noticia
+                ubicacion="Poliforum León, León, Guanajuato. Octubre de 2020."
+                imagen="https://lh3.googleusercontent.com/-czNCz1QRKznLFcl7XBieku8r4JHWxWB5bnXYswhAhelqLnkWWvbxPQJAsO0Ou88PfprPeAae2AFj74uNdyiBVMnSTFyh_-_sz6nQO9mau7tJtaXp3mOGC3_COHt4TgIXKxZopopXF1Lu15vrgFCzAkor6DkWs7J9OoH2MFwT7SLThM4ltab4L-qAa6HBszcYBMblssA6dFdqf5_2sSbcQodUUw4yTg5BFO54Zjz1_JcW1vSgc7pHarzQDRgeArQJQPbQFm3vD8kqhpa_PkmnMrBRdqdW6fq3tOHUPiX-xATjghutXx-LoPlXlGcO0Dw-SmwMyI1MfWZdyc2aPLOSragKtISA6g0h6CDfmVIR5ovriuZOwLRh-q_f74lM93SVV8yDa-M4tNom-wxNe3jevsNiCupfggq8T8J9iZpKKPm7rQZU11kX-4Fxr9JTCWFBy83KHM6EMQjFEXxI7M4A4QzqBwm-Vd_IRotR6NQOWNrtC4Sr2-W79tLzw48SAnWzd2LRrfKdhQVkdFZIfkIy1qmKVpZ-_l_8ah-Zb1kCqQSMmq-X0dziiE8y7NUBvzAmIfPQzvJ3WgMXItWrcgYIbh5QumCRzY6pZD-D4hQ357IoAdJGErF698hCVI-JHNMAawLgp4cBGiqhcvJqwt-5071-KF-YpxA29SHzTXjQ7Zl9At9RL4MXz8=w565-h752-no"
+                img_descr="NASA SAC Gto2"
+                titulo="Dos equipos de BeeDevelopers en Top 10 ganadores."
+                texto="Felicitamos a nuestros miembros de BeeDevelopers finalistas en el evento. Alcanzaron un merecido top 10 gracias a su esfuerzo y dedicación. ¡Felicidades!."
+                ></Noticia>
+
+                <Separador titulo="NASA Space App Chalenge Guanajuato"/>
+                <Noticia
+                ubicacion="Poliforum León, León, Guanajuato. Octubre de 2020."
+                imagen="https://lh3.googleusercontent.com/g_KJTNSMmXLIZBILVRwY22WpiL_xHZ4Dwa8liK1NfYhpLENECaj3TSh5igKX0f1Q0UwYweQoRw5vWhHLq_IBtv78s8ZKOIA_sZzBHLrvcZ7AJhfAjd6LbKajJEmFpCxrICF9LyTKUNGa47pEZ7eZtAW61Sse5p4BJX0JVySPBni8kmLvnCXnEagm7ksun14w-4zvIT2-29iT7PZFFOopxD88jXygsfF4Et2uG36j98-HmHNsMC5av3o9qhGNawugqf7QWrIqIBbVxnCXUhtsG97ZHujMqaemkSptWT_j2tdng-5tQ2ZVGvDM4HUlu9lFeW7V4rdLYxVbu-BsaiggK5igvDk54sltJaQjP-mMXnFBjz5YdGqa7M9pTXLd54NKYQqaWpoN9Ry8twpvp5ShUNz4OkFh5rfzfq4WLwRo10WxpEPepRHoTerAd0y9xeBH2HZErmTt10C6O2ZpFUf-8V33TwzPJKc56rreLPV03tlWPVSCpI-MJ1C8gaZYC4m6u8WV75LnWyh5l9azjXOqsEb2-0E7LU_ZS9OW05239DW_YqLulVCiw_Lp5P9zCqGOWqwFWfVzcDiUSqZvajkoStkJKL-TTvuSujSwtWdIuAUsd0vgNgkwBbJghbkvG4Z97ts_X0aRFCpCdp9RoWzPrs9Yiqe3FYz9K39nn4HWBdMPw4t5YCC3CrXiWIKeCo_e4Y99LSv5ZA4XQGZYvAwpu2w3LVOe0PakEW8Jp5LRT46uP7c=w1003-h752-no"
+                img_descr="NASA SAC Gto"
+                titulo="Seis equipos participantes y miembros organizadores de BeeDevelopers"
+                texto="Seis equipos integrados con miembros de BeeDevelopers participarón en el NASA SAC Gto. Tmabién participamos como miembros organizadores y de apoyo lógistico del mismo. Sin duda un evento muy divertido y de mucho aprendizaje para nosotros."
+                ></Noticia>
+
+                <Separador titulo="Hannover Messe"/>
+                <Noticia
+                ubicacion="Poliforum León, León, Guanajuato. Octubre de 2020."
+                imagen="https://lh3.googleusercontent.com/XxS96BukyYi_Wvm-Ln1rYRRDSsTbA53M53HShNNN9vHYSFJuPH7VCPC9d9i97SjvlSw0OBacPIlWbTH2SxNOyQa53UaLpbAj2vxkB5uVdEWI65qMrV5idlOobVpt7TMiCIa25G6gkxLDbFnDPZZUsrXNxTRS7uUsz1XAPuqiF0EP78RaENf6QXtnG-otGxb-MSpsPyXmL8RJ77ogLCr2ZrGyzukm2DcxdQfvhffXlMbkGtuVFZjS2kqWILt9DSlTPgqtI70ecXPqnemGVCpVnaVOUlTKCqbKebcNeOwFhOnrbPRQx3fyeB7IH4qlLa-7DLh3L2Fr8SaqyAD9H1rjli1fPMf1Wna3gt_VekMKvibi5JAPlRR0ItuRK27p97mvUMHbX7IEgSRrk8W6CdZV98WFrY8B8jUQ3FLy29DWIXuj524k29bUPTXBFQ2d2Vj2v7d0dYb7lRTBggVVBXadY-6Qrm53YBHgdqnPSDpv8pzZ1J6_o1CEFv9miJR2K7bilFvZax1poc2SQb35bQGTrL4_YaHxeAxgLGLuo2Ek8CP08Y-ziFI3dQsNgrLFPTpcnWGRDp7aXffIdK0edTtHnXXvfV8j4_6uzaX-L_FW6JZcpremYBXs6al7n0xZgIrccCDUWJgZVf9g7JW7dJWbM0WWcKisrz1WGWA6L0_XcpAapSap98g_w-AjynPCE8LGlr_ivwUkxZb8F27-cgzhauAMkB64gIlNm01Hop1ZTFH-TIZS=w1003-h752-no"
+                img_descr="Hannover Messe"
+                titulo="Asistimos a la Hannover Messe"
+                texto="BeeDevelopers fue invitado a asistir a la Hannover Messe por parte de Desarrollo Ecónomico del municipio de Irapuato en colaboración con DICIS."
+                ></Noticia>
+
                 <Separador titulo="XXI Foro Regional de Vinculación ANUIES"/>
                 <Noticia
                 ubicacion="UTEG Americas. Guadalajara, Jalisco. Octubre 2019"
@@ -62,6 +89,16 @@ export default class Noticias extends Component {
                 titulo="Quinto Lugar"
                 texto="Un equipo conformado por miebros de BeeDevelopers concursaron el el Hackathon BBVA 2019 en la Cuidad de México y obtuvieron el quinto lugar."
                 ></Noticia>
+
+                <Separador titulo="Open DevWeek"/>
+
+                <Noticia 
+                    ubicacion="División de Ingenierías Campus Irapuato-Salamanca"
+                    imagen="https://lh3.googleusercontent.com/NO-LGcpcKEIDoTMFkTV3or33asDSveb5wciDKh-QV-v6ScuAo3-5R8epkKwVUoBJyXG9xd1d8-fHAmygDL1KY47Oi5DrNPeV6yX1zUipudpiauqmBd71APUPGY-qrpW7nNln0RIr0c19Z-3XOpxWBErEQrTentM8jcPmB1FU_L6KfaNZ0PaP7YJ3xliWyh6cAyhXr90miroE19JoX5UsMNSjTW2LnGCvyiLaLcKOHitsa3TCtN_3vlk3iGMzM98Yw1OPx1lKM9QJ1wrQ_wPjbbXW4iCMv_L4Lq-ezP4_G2QT6a_3nYx3vzF1_E-h6TJybVJtpUQhTBgDP24ehbxHyuK81RYLQGQQdHYeB-l0Fu-ULaip3ALtwrHysMueg_333WpeaR_j7NslXcIgpInft2hXNECzrdZzjE1G4U8G7TfCAySA-LNoaiJDXNKBIcb3TeFW7Eg3EX98IPxNFG31rl0R_7MKCNY3Vu3pj9YcFyb_4j05KwpisllZdyhMrpaga3zha80fTc1XtYONQ8GU0BTHbjMrOSxJ_1WvgND4CFyw72IsCRykGqdaW88hNiqNdchV0sY4BR4jLErqxMQ7BmLn-4euVuWMTDiZ5eDNLTUoFX2j4lGZ5kus1HeKjhwjE8is9WEkueCaTttWNNUoFpdsotS6SeSj29emSq6oUqDCFg0dWNQUFvM=s752-no"
+                    img_descr="OpenDevWeek"
+                    titulo="Presentación de BeeDevelopers como nuevo grupo organizado"
+                    texto="Organizamos una semana de talleres selectos de programación. Dichos talleres fueron: Desarollo de aplicaciones móviles en Kotlin, uso de básico de la terminal de computadora, introducción al desarrollo web e introducción de React.js. ¡Generamos un buen recibimiento en nuestra comunidad!."
+                />
 
                 <Separador titulo="Festividad Mexicana y prevención del suicidio"/>
                 <Noticia
