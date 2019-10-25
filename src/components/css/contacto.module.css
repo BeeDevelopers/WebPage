@@ -50,6 +50,16 @@
     color: #1da1f2;
 }
 
+.qr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr img{
+    width: 25rem;
+}
+
 @media(max-width: 768px){
     .info{
         flex-direction: column;

@@ -27,7 +27,8 @@ export default class Contacto extends Component {
                 <Separador titulo="Información y Redes Sociales" />
 
                 <div className={styles.info}>
-                    <img src="/img/map.svg" alt="mapa" />
+                    {/* <img src="/img/map.svg" alt="mapa" /> */}
+                    <img src="/img/qr.png" alt="QR"/>
                     <div className={styles.texto}>
                         <p><span>Dirección:</span> </p>
                         <p>Oficinas de CEMER. Camino a Palo Blanco #227 Salamanca, Guanajuato.</p>
@@ -46,6 +47,9 @@ export default class Contacto extends Component {
                         </div>
                     </div>
                 </div>
+                {/* <div className={styles.qr}> */}
+                    {/* <img src="/img/qr.png" alt="QR"/> */}
+                {/* </div> */}
 
             </div>
         );
