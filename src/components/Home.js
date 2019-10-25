@@ -22,7 +22,7 @@ export default class Home extends Component {
                     <img src="/img/code_review.svg" alt="Code review" />
                     <div className={styles.seccion_texto}>
                         <h2>¿Software Development?, es lo nuestro.</h2>
-                        <p>Al formar parte de <span>BeeDevelopers</span> te integras a una comunidad desosa de trabajar e impactar en nuestro entorno. Además de que enriqueceras tus conocimientos al aprender nuevas técnologías y los frameworks más modernos.</p>
+                        <p>Al formar parte de <span>BeeDevelopers</span> te integras a una comunidad deseosa de trabajar e impactar en nuestro entorno. Además de que enriqueceras tus conocimientos al aprender nuevas tecnologías y los frameworks más modernos.</p>
                     </div>
                 </div>
                 <Separador titulo="Pensado por y para estudiantes" />
