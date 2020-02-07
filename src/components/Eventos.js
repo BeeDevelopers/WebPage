@@ -24,18 +24,18 @@ export default class Eventos extends Component {
                 <Separador titulo="Próximamente" />
                 
                 <Evento 
-                    imagen="/img/hackflayer.png"
-                    img_descr="Flayer de Hackathon"
-                    titulo="HackDevelopers"
-                    texto="Próximanente en DICIS el hackathon que estabas buscando. Ánimate a participar y vivir esta gran experiencia."
+                    imagen="/img/devweek.png"
+                    img_descr="DevWeek Logo"
+                    titulo="DevWeek"
+                    texto="Próximanente en DICIS la semana de cursos y talleres relacionada a la programación."
                     facebook="https://www.facebook.com/BeeDevelopersUG/"
                     instagram="https://www.instagram.com/beedevelopers/?hl=es-la"
                     twitter="https://twitter.com/BeeDevelopers"
                 />
 
-                <Separador titulo="Talleres Internos" />
+                {/* <Separador titulo="Talleres Internos" /> */}
                 
-                <EventoRegistro
+                {/* <EventoRegistro
                     imagen="http://rbwebsolutions.in/wp-content/uploads/2018/05/c-programming.png"
                     img_descr="C logo"
                     titulo="Programación en C"
@@ -55,7 +55,7 @@ export default class Eventos extends Component {
                     titulo="Desarrollo Web con React.js"
                     texto="Fecha: Miércoles 16 de Octubre de 14:00 - 16:00 hrs. Aprenderas el uso básico de terminal, editor de textos, uso de AdobeXD para hacer el diseño de tus aplicaciones y React.js."
                     linkRegistro="https://forms.gle/Fd7jD45moVU97epJ7"
-                />
+                /> */}
 
             </div>
         );
