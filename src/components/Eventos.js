@@ -10,7 +10,7 @@ import style from './css/eventos.module.css';
 export default class Eventos extends Component {
     render() {
         return (
-            <div>
+            <div className={style.margin}>
                 <Titulo pre_titulo="git init" titulo="Eventos" leyenda="Aquí es donde todo sucede."/>
                 {/* <div className={style.seccion} >
                     <div className={style.seccion_texto}>
