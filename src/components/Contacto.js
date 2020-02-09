@@ -44,6 +44,9 @@ export default class Contacto extends Component {
                             <a className={styles.twitter}  href="https://www.twitter.com/BeeDevelopers">
                                 <i class="fab fa-twitter"></i>
                             </a>
+                            <a className={styles.telegram}  href="https://t.me/joinchat/AAAAAEfm6k8nq58RE3DtPg">
+                                <i class="fab fa-telegram"></i>
+                            </a>
                         </div>
                     </div>
                 </div>
