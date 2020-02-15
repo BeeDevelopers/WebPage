@@ -27,7 +27,7 @@ export default class Eventos extends Component {
                     imagen="/img/devweek.png"
                     img_descr="DevWeek Logo"
                     titulo="Asiste a nuestros talleres y ponencias."
-                    texto="La semana de cursos y talleres relacionada a la programación."
+                    texto="Nuestra semana de cursos y talleres relacionada a la programación."
                     facebook="https://www.facebook.com/BeeDevelopersUG/"
                     instagram="https://www.instagram.com/beedevelopers/?hl=es-la"
                     twitter="https://twitter.com/BeeDevelopers"
@@ -39,7 +39,7 @@ export default class Eventos extends Component {
                     imagen="http://www.gamecoderstudios.com/wp-content/uploads/2018/02/GC_white_1-1024x576.png"
                     img_descr="gamecoder"
                     titulo="VR en el Trabajo"
-                    texto="Lunes 17 11:00 - 12:00 hrs, Auditorio 102. Game Coder nos acompaña para brindarnos una platica sobre el uso de la realidad virtual en un ámbiente laboral."
+                    texto="Lunes 17 11:00 - 12:00 hrs, Auditorio 102. Game Coder nos acompaña para brindarnos una plática sobre el uso de la realidad virtual en un ambiente laboral."
                     linkRegistro="https://forms.gle/cZp1Dn9c9gW7uuGbA"
                 />
 
@@ -54,21 +54,21 @@ export default class Eventos extends Component {
                     imagen="https://www.techunlimited.in/assets/themes/default/images/ux-ui-logo.png"
                     img_descr="ui"
                     titulo="Hazlo Bonito"
-                    texto="Martes 18 10:00 - 12:00 hrs, Auditorio 101. Tu mejor amiga laura te platica de la importancia del diseño en una interfaz de usuario para alcanzar un mayor público y conseguir tus millones."
+                    texto="Martes 18 10:00 - 12:00 hrs, Auditorio 101. Tu mejor amiga Laura te platica de la importancia del diseño en una interfaz de usuario para alcanzar un mayor público y conseguir tus millones."
                     linkRegistro="https://forms.gle/w8rVGbgKh7U7xSVb7"
                 />
                 <EventoRegistro
                     imagen="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png"
                     img_descr="kotlin"
                     titulo="Crea tu primera app nativa para Android con Kotlin"
-                    texto="Martes 18 12:00 - 14:00 hrs, Auditorio 101. Aprende los fundamentos del desarrollo de apps usando Android Studio y Kotlin, el nuevo lenguaje oficial de android más rapido, moderno y conciso."
+                    texto="Martes 18 12:00 - 14:00 hrs, Auditorio 101. Aprende los fundamentos del desarrollo de apps usando Android Studio y Kotlin, el nuevo lenguaje oficial de Android más rapido, moderno y conciso."
                     linkRegistro="https://forms.gle/5Cs4syCJuzdpR6kB9"
                 />
                 <EventoRegistro
                     imagen="https://i.pinimg.com/originals/a0/bb/70/a0bb70e17aa4d8d999bd2239add52840.jpg"
                     img_descr="unity"
                     titulo="Como empezar tu primer juego móvil"
-                    texto="Martes 18 12:00 - 14:00 hrs, Auditorio 102. Orientar a aquellos interesados en desarrollar juegos móviles,herramientas para empezar a crear sus propios juegos, experiencias y consejos. Vistazo rápido a Unity."
+                    texto="Martes 18 12:00 - 14:00 hrs, Auditorio 102. Orientar a aquellos interesados en desarrollar juegos móviles, herramientas para empezar a crear sus propios juegos, experiencias y consejos. Vistazo rápido a Unity."
                     linkRegistro="https://forms.gle/F8GXZo8i7WpSTHAS9"
                 />
                 <EventoRegistro
