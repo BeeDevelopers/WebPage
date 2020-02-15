@@ -36,12 +36,13 @@ export default class Eventos extends Component {
                 {/* <Separador titulo="Talleres Internos" /> */}
                 
                 <EventoRegistro
-                    imagen="https://pngimage.net/wp-content/uploads/2018/06/html-css-png-4.png"
-                    img_descr="html y css"
-                    titulo="HTML y CSS"
-                    texto="Lunes 17 10:00 - 12:00 hrs, Auditorio 101. Realizarás tu primer página web, aprenderás como estructurar una página web y su comportamiento con los navegadores."
-                    linkRegistro="https://forms.gle/AP3jNa6A8qodidTaA"
+                    imagen="http://www.gamecoderstudios.com/wp-content/uploads/2018/02/GC_white_1-1024x576.png"
+                    img_descr="gamecoder"
+                    titulo="VR en el Trabajo"
+                    texto="Lunes 17 11:00 - 12:00 hrs, Auditorio 102. Game Coder nos acompaña para brindarnos una platica sobre el uso de la realidad virtual en un ámbiente laboral."
+                    linkRegistro="https://forms.gle/cZp1Dn9c9gW7uuGbA"
                 />
+
                 <EventoRegistro
                     imagen="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
                     img_descr="git"
@@ -59,8 +60,8 @@ export default class Eventos extends Component {
                 <EventoRegistro
                     imagen="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png"
                     img_descr="kotlin"
-                    titulo="Martes 18 12:00 - 14:00 hrs, Auditorio 101. Crea tu primera app nativa para Android con Kotlin"
-                    texto="Aprende los fundamentos del desarrollo de apps usando Android Studio y Kotlin, el nuevo lenguaje oficial de android más rapido, moderno y conciso."
+                    titulo="Crea tu primera app nativa para Android con Kotlin"
+                    texto="Martes 18 12:00 - 14:00 hrs, Auditorio 101. Aprende los fundamentos del desarrollo de apps usando Android Studio y Kotlin, el nuevo lenguaje oficial de android más rapido, moderno y conciso."
                     linkRegistro="https://forms.gle/5Cs4syCJuzdpR6kB9"
                 />
                 <EventoRegistro
@@ -91,12 +92,13 @@ export default class Eventos extends Component {
                     texto="Jueves 20 10:00 - 12:00 hrs, Auditorio 102. Taller donde se enseñará a desarrollar una página web de manera rápida utilizando el framework de Javascript, ReactJS."
                     linkRegistro="https://forms.gle/xy8RPD9Jbpfzpkdb7"
                 />
+                
                 <EventoRegistro
-                    imagen="http://www.gamecoderstudios.com/wp-content/uploads/2018/02/GC_white_1-1024x576.png"
-                    img_descr="gamecoder"
-                    titulo="VR en el Trabajo"
-                    texto="Viernes 21 11:00 - 12:00 hrs, Auditorio 102. Game Coder nos acompaña para brindarnos una platica sobre el uso de la realidad virtual en un ámbiente laboral."
-                    linkRegistro="https://forms.gle/cZp1Dn9c9gW7uuGbA"
+                    imagen="https://pngimage.net/wp-content/uploads/2018/06/html-css-png-4.png"
+                    img_descr="html y css"
+                    titulo="HTML y CSS"
+                    texto="Viernes 21 10:00 - 12:00 hrs, Auditorio 101. Realizarás tu primer página web, aprenderás como estructurar una página web y su comportamiento con los navegadores."
+                    linkRegistro="https://forms.gle/AP3jNa6A8qodidTaA"
                 />
 
             </div>
