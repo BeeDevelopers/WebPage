@@ -36,7 +36,8 @@ export default class Eventos extends Component {
                 {/* <Separador titulo="Talleres Internos" /> */}
                 
                 <EventoRegistro
-                    imagen="http://www.gamecoderstudios.com/wp-content/uploads/2018/02/GC_white_1-1024x576.png"
+                    // imagen="http://www.gamecoderstudios.com/wp-content/uploads/2018/02/GC_white_1-1024x576.png"
+                    imagen="https://pbs.twimg.com/media/DPHuV7ZVQAAofDn.png"
                     img_descr="gamecoder"
                     titulo="VR en el Trabajo"
                     texto="Lunes 17 11:00 - 12:00 hrs, Auditorio 102. Game Coder nos acompaña para brindarnos una plática sobre el uso de la realidad virtual en un ambiente laboral."
