@@ -35,7 +35,7 @@ export default class Eventos extends Component {
 
                 {/* <Separador titulo="Talleres Internos" /> */}
                 
-                <EventoRegistro
+                {/* <EventoRegistro
                     // imagen="http://www.gamecoderstudios.com/wp-content/uploads/2018/02/GC_white_1-1024x576.png"
                     imagen="https://pbs.twimg.com/media/DPHuV7ZVQAAofDn.png"
                     img_descr="gamecoder"
@@ -50,7 +50,7 @@ export default class Eventos extends Component {
                     titulo="GIT: from zero to hero"
                     texto="Lunes 17 12:00 - 14:00 hrs, Auditorio 102. Aprende a respaldar tu trabajo mediante el uso de Git y también aprende a hacer proyectos colaborativos con tu equipo con esta herramienta."
                     linkRegistro="https://forms.gle/SL7kGAfXFjpJuweTA"
-                />
+                /> */}
                 <EventoRegistro
                     imagen="https://www.techunlimited.in/assets/themes/default/images/ux-ui-logo.png"
                     img_descr="ui"
