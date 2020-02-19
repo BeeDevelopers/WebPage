@@ -51,7 +51,7 @@ export default class Eventos extends Component {
                     texto="Lunes 17 12:00 - 14:00 hrs, Auditorio 102. Aprende a respaldar tu trabajo mediante el uso de Git y también aprende a hacer proyectos colaborativos con tu equipo con esta herramienta."
                     linkRegistro="https://forms.gle/SL7kGAfXFjpJuweTA"
                 /> */}
-                <EventoRegistro
+                {/* <EventoRegistro
                     imagen="https://www.techunlimited.in/assets/themes/default/images/ux-ui-logo.png"
                     img_descr="ui"
                     titulo="Hazlo Bonito"
@@ -71,7 +71,7 @@ export default class Eventos extends Component {
                     titulo="Como empezar tu primer juego móvil"
                     texto="Martes 18 12:00 - 14:00 hrs, Auditorio 102. Orientar a aquellos interesados en desarrollar juegos móviles, herramientas para empezar a crear sus propios juegos, experiencias y consejos. Vistazo rápido a Unity."
                     linkRegistro="https://forms.gle/F8GXZo8i7WpSTHAS9"
-                />
+                /> */}
                 <EventoRegistro
                     imagen="https://www.cynthus.com.mx/blog/wp-content/uploads/2019/05/ICONOS-DE-CEH-LANDING-02.png"
                     img_descr="hacking"
