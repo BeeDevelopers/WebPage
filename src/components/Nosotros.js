@@ -46,13 +46,10 @@ export default class Nosotros extends Component {
                         descripcion="Desarrollo web. Desarrollo de aplicaciones híbridas. Flutter, ReactJS, MEAN stack, HTML, CSS. Bases de datos en MySQL, Oracle, MSSQL. Lenguajes de programación: C, C++, Java, Python, Dart, Javascript. Agile development."
                     />
                     <Miembro
-                        img="/img/valeria.png"
-                        nombre="Valeria Cortés"
+                        img="/img/apk.jpeg"
+                        nombre="Marco Ramírez"
                         cargo="Vicepresidente"
-                        descripcion="Apps móviles: Android.
-                        Lenguajes de programación: C, C++, C#, Java, Python.
-                        Desarrollo Web: HTML5, CSS3, PHP, JSON, XML, Ruby on Rails.
-                        Base de datos: MySQL, Oracle, MSSQL."
+                        descripcion="Desarrollador web: con experiencia en HTML5, CSS3, Javascript, PHP y MySQL. Desarrollo de algoritmos en C y C++."
                     />
                     <Miembro
                         img="/img/idalid.png"
