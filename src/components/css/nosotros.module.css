@@ -1,13 +1,9 @@
 .container {
     display: flex;
-
 }
 .container img {
-    width: 35%;
-    min-width: 25rem; 
+    height: 15rem;
     margin: 5rem;
-    margin-top: 0rem;
-    margin-bottom: auto;
     border-radius: 0.6rem;
 }
 
