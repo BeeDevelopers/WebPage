@@ -72,7 +72,7 @@ export default class Eventos extends Component {
                     texto="Martes 18 12:00 - 14:00 hrs, Auditorio 102. Orientar a aquellos interesados en desarrollar juegos móviles, herramientas para empezar a crear sus propios juegos, experiencias y consejos. Vistazo rápido a Unity."
                     linkRegistro="https://forms.gle/F8GXZo8i7WpSTHAS9"
                 /> */}
-                <EventoRegistro
+                {/* <EventoRegistro
                     imagen="https://www.cynthus.com.mx/blog/wp-content/uploads/2019/05/ICONOS-DE-CEH-LANDING-02.png"
                     img_descr="hacking"
                     titulo="Curso de introducción al Hacking Ético"
@@ -100,7 +100,7 @@ export default class Eventos extends Component {
                     titulo="HTML y CSS"
                     texto="Viernes 21 10:00 - 12:00 hrs, Auditorio 101. Realizarás tu primer página web, aprenderás como estructurar una página web y su comportamiento con los navegadores."
                     linkRegistro="https://forms.gle/AP3jNa6A8qodidTaA"
-                />
+                /> */}
 
             </div>
         );
