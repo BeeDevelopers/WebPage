@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Separador from './Separador';
 import Titulo from './Titulo';
 import Evento from './Evento';
-import EventoRegistro from './EventoRegistro';
+// import EventoRegistro from './EventoRegistro';
 
 import style from './css/eventos.module.css';
 
