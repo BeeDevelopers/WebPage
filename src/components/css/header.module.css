@@ -6,7 +6,10 @@
     justify-content: space-between;
     align-items: center;
 }
-
+.backgroundbee{
+    background-color: #1685D9;
+    
+}
 .imagen{
     width: 10rem;
 }
