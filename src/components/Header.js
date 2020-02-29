@@ -21,7 +21,7 @@ export default class Header extends Component {
             //     </div>
             // </div>       
 
-                <Navbar collapseOnSelect expand="lg"   className={styles.backgroundbee} >
+                <Navbar collapseOnSelect expand="lg" className={styles.backgroundbee} >
                     <Navbar.Brand href="/">
                         <img className={styles.imagen} src="/img/BD_nombre.png" alt="BeeDevelopers;" />
                     </Navbar.Brand>
@@ -31,7 +31,7 @@ export default class Header extends Component {
                             <Nav.Link className={styles.links} href="/nosotros"><p>Nosotros</p></Nav.Link>
                             <Nav.Link className={styles.links} href="/eventos"><p>Eventos</p></Nav.Link>
                             <Nav.Link className={styles.links} href="/noticias"><p>Noticias</p></Nav.Link>
-                            <Nav.Link className={styles.links} href="/contactos"><p>Contactos</p></Nav.Link>
+                            <Nav.Link className={styles.links} href="/contacto"><p>Contacto</p></Nav.Link>
                         </Nav>
                         
                     </Navbar.Collapse>
