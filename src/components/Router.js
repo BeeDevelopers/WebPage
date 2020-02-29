@@ -8,6 +8,8 @@ import Contacto from './Contacto';
 import Noticias from './Noticias';
 import Nosotros from './Nosotros';
 
+import Error from './Error';
+
 export default class Router extends Component {
 
     render() {
@@ -22,7 +24,7 @@ export default class Router extends Component {
                     <Route exact path="/noticias" component={Noticias} />
                     <Route exact path="/nosotros" component={Nosotros} />
                     {/* <Route exact path="/"component={Home} /> */}
-                    {/* <Route component={Error}/> */}
+                    <Route component={Error}/>
                 </Switch>
 
                 <Header />

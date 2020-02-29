@@ -26,7 +26,7 @@ export default class Header extends Component {
                         <img className={styles.imagen} src="/img/BD_nombre.png" alt="BeeDevelopers;" />
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-                    <Navbar.Collapse id="responsive-navbar-nav">
+                    <Navbar.Collapse id="responsive-navbar-nav" bg="light">
                         <Nav className="ml-auto">
                             <Nav.Link className={styles.links} href="/nosotros"><p>Nosotros</p></Nav.Link>
                             <Nav.Link className={styles.links} href="/eventos"><p>Eventos</p></Nav.Link>
