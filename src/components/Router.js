@@ -7,6 +7,7 @@ import Eventos from './Eventos';
 import Contacto from './Contacto';
 import Noticias from './Noticias';
 import Nosotros from './Nosotros';
+import Conducta from './Conducta';
 
 import Error from './Error';
 
@@ -23,6 +24,7 @@ export default class Router extends Component {
                     <Route exact path="/contacto" component={Contacto} />
                     <Route exact path="/noticias" component={Noticias} />
                     <Route exact path="/nosotros" component={Nosotros} />
+                    <Route exact path="/conducta" component={Conducta} />
                     {/* <Route exact path="/"component={Home} /> */}
                     <Route component={Error}/>
                 </Switch>
