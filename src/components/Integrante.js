@@ -62,7 +62,7 @@ export default class Devteam extends Component {
         const equipo = []
         for( const value of this.state.equipo){
             if(value.toLowerCase() !== this.state.nombre){
-                equipo.push(<a className="text-decoration-none" style={{color: "black"}} key="0" href={"/devteam/"+value.toLowerCase()}><Persona width="100" nombre={value} img={this.state.integrantes[value.toLowerCase()].imagenRuta}/> </a>)
+                equipo.push(<a className="text-decoration-none px-4" style={{color: "black"}} key="0" href={"/devteam/"+value.toLowerCase()}><Persona width="100" nombre={value} img={this.state.integrantes[value.toLowerCase()].imagenRuta}/> </a>)
             }
         }
         
@@ -78,12 +78,12 @@ export default class Devteam extends Component {
                
                 <Persona width="170" nombre={this.state.integrante.nombre} img="/img/alan.jpg"/>
                     <h3>Web Developer</h3>
-                    <Row className="justify-content-md-center">
+                    <Container className="justify-content-md-center">
                         <a className="px-2"href={this.state.integrante.contacto[0]} rel="noopener noreferrer" style={{fontSize: "2rem"}} target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                         <a className="px-2"href={this.state.integrante.contacto[1]} rel="noopener noreferrer" style={{fontSize: "2rem"}} target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
                         <a className="px-2"href={this.state.integrante.contacto[2]} rel="noopener noreferrer" style={{fontSize: "2rem"}} target="_blank" title="Mail"><i class="fas fa-envelope"></i></a>
                         <a className="px-2"href={this.state.integrante.contacto[3]} rel="noopener noreferrer" style={{fontSize: "2rem"}} target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
-                    </Row>
+                    </Container>
                     <h3 className="pt-5">Skills</h3>
                     <Container className="d-flex justify-content-center pb-5">
                         {skills}
@@ -116,7 +116,7 @@ export default class Devteam extends Component {
                         </CardDeck>
                     </Container>
                     <h3 className="pt-4">Conoce a todos los integrantes</h3>
-                    <Row className="justify-content-md-center py-5">
+                    <Container className="d-flex flex-row justify-content-center py-5">
                         {/* <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
@@ -124,7 +124,7 @@ export default class Devteam extends Component {
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/> */}
                         {equipo}
-                    </Row>
+                    </Container>
             </Container>
             
             // 
