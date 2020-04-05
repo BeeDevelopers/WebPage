@@ -11,7 +11,7 @@ export default class Devteam extends Component {
         const integrantes = ["Alan", "Diego", "Idalid", "Miguel", "Hugo", "Apk"]
         const links = []
         for(const value of integrantes){
-            links.push(<Link className="text-decoration-none" style={{color: "black"}} key="0" to={"/devteam/"+value.toLowerCase()}> <Persona nombre={value} img="/img/alan.jpg"/> </Link>)
+            links.push(<Link className="text-decoration-none" style={{color: "black"}} key="0" to={"/devteam/"+value.toLowerCase()}> <Persona width="175" nombre={value} img="/img/alan.jpg"/> </Link>)
         }
 
         return (
