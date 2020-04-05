@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Container, Row, Col, Card, CardDeck, Button} from 'react-bootstrap';
+import {Container, Row, Card, CardDeck, Button} from 'react-bootstrap';
 import Persona from './Persona';
 import Skill from './Skill';
 // import { Link, useParams } from 'react-router-dom';
@@ -60,7 +60,7 @@ export default class Devteam extends Component {
         return (
             <Container className="text-center pt-5">
                
-                <Persona nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                <Persona width="170" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                     <h3>Web Developer</h3>
                     <Row className="justify-content-md-center">
                         <a className="px-2"href={this.state.integrante.contacto[0]} rel="noopener noreferrer" style={{fontSize: "2rem"}} target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -101,12 +101,12 @@ export default class Devteam extends Component {
                     </Container>
                     <h3 className="pt-4">Conoce a todos los integrantes</h3>
                     <Row className="justify-content-md-center py-5">
-                        <Persona width="3rem" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="3rem" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="3rem" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="3rem" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="3rem" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="3rem" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                     </Row>
             </Container>
             
