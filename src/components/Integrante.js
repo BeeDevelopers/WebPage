@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Container, Row, Card, CardDeck, Button} from 'react-bootstrap';
 import Persona from './Persona';
 import Skill from './Skill';
-// import { Link, useParams } from 'react-router-dom';
+import { Link} from 'react-router-dom';
 
 // import Titulo from "./Titulo";
 // import styles from './css/integrante.module.css';
@@ -23,32 +23,48 @@ export default class Devteam extends Component {
                     proyectos: [{nombre: "proyecto1", imagenRuta: "/img/grupo2.jpeg", descr:"project description", links: ["github", "pagina"]}, {nombre: "proyecto2", imagenRuta: "/img/grupo2.jpeg", descr:"project description", links: ["github", "pagina"]}]
                 },
                 diego : {
-                    imagenRuta: "",
+                    imagenRuta: "/img/alan.jpg",
                     nombre: "Diego",
                     contacto: ["linkedin", "github", "mail", "whatsapp"],
                     skills: ["vue", "angular", "etc"],
                     proyectos: [{nombre: "proyecto1", imagenRuta: "", descr:"", links: ["github", "pagina"]}]
                 },
                 idalid : {
-                    imagenRuta: "",
+                    imagenRuta: "/img/alan.jpg",
                     nombre: "Idalid",
                     contacto: ["linkedin", "github", "mail", "whatsapp"],
                     skills: ["vue"],
                     proyectos: [{nombre: "proyecto1", imagenRuta: "", descr:"", links: ["github", "pagina"]}]
                 }
-            }
+            },
+            equipo: ["Alan", "Diego", "Idalid"],
+            nombre: "",
+            prueba: ''
         }
 
     }
 
+
     componentWillMount(){
-        let nombre = this.props.match.params.nombre
-        this.setState({integrante: this.state.integrantes[nombre]})
+        let nombre = this.props.match.params.nombre;
+        this.setState({nombre: nombre, integrante: this.state.integrantes[nombre] });
+    }
+    componentWillUpdate(){
+        // let nombre = this.props.match.params.nombre;
+        // this.setState({nombre: nombre, integrante: this.state.integrantes[nombre] });
+        // this.setState({prueba: 'hola'})
+        // this.componentWillMount()
     }
 
     render() {
        
-        console.log(this.state.integrante)
+        // console.log(this.state.integrante)
+        const equipo = []
+        for( const value of this.state.equipo){
+            if(value.toLowerCase() !== this.state.nombre){
+                equipo.push(<a className="text-decoration-none" style={{color: "black"}} key="0" href={"/devteam/"+value.toLowerCase()}><Persona width="100" nombre={value} img={this.state.integrantes[value.toLowerCase()].imagenRuta}/> </a>)
+            }
+        }
         
         const skills = []
         for(let value of this.state.integrante.skills){
@@ -60,7 +76,7 @@ export default class Devteam extends Component {
         return (
             <Container className="text-center pt-5">
                
-                <Persona width="170" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                <Persona width="170" nombre={this.state.integrante.nombre} img="/img/alan.jpg"/>
                     <h3>Web Developer</h3>
                     <Row className="justify-content-md-center">
                         <a className="px-2"href={this.state.integrante.contacto[0]} rel="noopener noreferrer" style={{fontSize: "2rem"}} target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -101,12 +117,13 @@ export default class Devteam extends Component {
                     </Container>
                     <h3 className="pt-4">Conoce a todos los integrantes</h3>
                     <Row className="justify-content-md-center py-5">
+                        {/* <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
                         <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
-                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/>
+                        <Persona width="100" nombre="Alan Álvarez" img="/img/alan.jpg"/> */}
+                        {equipo}
                     </Row>
             </Container>
             
