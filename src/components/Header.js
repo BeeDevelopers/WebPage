@@ -30,7 +30,7 @@ export default class Header extends Component {
                         <Nav className="ml-auto">
                             <Nav.Link className={styles.links} href="/nosotros"><p>Nosotros</p></Nav.Link>
                             <Nav.Link className={styles.links} href="/eventos"><p>Eventos</p></Nav.Link>
-                            <Nav.Link className={styles.links} href="/noticias"><p>Noticias</p></Nav.Link>
+                            <Nav.Link className={styles.links} href="/devteam"><p>Dev Team</p></Nav.Link>
                             <Nav.Link className={styles.links} href="/contacto"><p>Contacto</p></Nav.Link>
                         </Nav>
                         
